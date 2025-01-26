@@ -2,19 +2,40 @@
 
 
 <h2>Objective 🎯</h2>
-The objective of this 
+
+
+
+
+1. Use the data to pull Current Campaign Production by Financial Category for Fiscal Year 2024.
+Once you have this information, you will also need to pull budget totals for Financial Category
+for Campaign Production. Once you have both data sets pulled, create a report that gives a
+graph for campaign production FY2024 budget vs actual.
+2. Use the data to pull Current Campaign Revenue by Financial Category for Fiscal Year 2024. Once
+you have this information, you will also need to pull budget totals for Financial Category for
+Campaign Revenue. Once you have both data sets pulled, create a report that gives a graph for
+campaign revenue FY2024 budget vs actual.
+3. Using the production data, create a report that shows FY totals of Campaign Production actuals
+and budget by Fiscal Year. Include a trendline to actuals to show movement year-over-year.
+4. Use the revenue data, create a report that shows FY totals of Campaign Revenue actuals and
+budget by Fiscal Year. Include a trendline on actuals to show movement year-over-year.
+Questions:
+1. Where do we need to focus on Campaign Production regarding Financial Category?
+2. Where do we need to focus on Campaign Revenue regarding Financial Category?
+3. What other information would you need to help understand how University Relations is doing?
+
+
+<h2>Background Information 🏞️</h2>
+
+Advancement Services is responsible for entering, maintaining, and retrieving data related to fundraising and donations within a non-profit organization. They provide insights on fundraising data, which includes building donor ratings and scores, predicting revenue and production, and analyzing trends by financial category over time.  Advancement Services also creates financial and constituent reports for internal and external stakeholders related to fundraising. Additionally, they use their findings to research and identify new prospects as well as update information on current prospects and donations. 
 
 <h2>Business Questions 🔎</h2> 
   
-  -  How has the team's usage of GitHub changed over time?  What is the trend over the past ___ quarters or years? Is there a reason for this? 
-  -  Are we utilizing Github for code reviews as intended?
-  -  How does the number of internal cases requiring a code review submission compare to the actual number of pull requests? Which cases didn't have a pull request that should have?
-  -  Are there certain types of internal cases that are more susceptible to not receiving a pull request?  Why is this?
-  -  How many commits are pushed per pull request, on average? Are we commiting new code after it has been reviewed by the team?
-  -  How many comments or reviewers does each pull request receive, on average?
-  -  Who is contributing the most to the health of our repositories?  Who is not following our established protocols for code reviews?
-  -  What type of contributions does the team need to improve? For example, are we good at leaving reviews on code but bad about committing new code after a review?
-  -  Is the lack of contribution to the repository because of a training or process gap?  How can we fill this gap and support eachother better as a team?
+  -  Where do we need to focus on Campaign Production regarding Financial Category?
+  -  Where do we need to focus on Campaign Revenue regarding Financial Category?
+
+
+
+
 
 <h2>Solution ⚡️ </h2>
 
