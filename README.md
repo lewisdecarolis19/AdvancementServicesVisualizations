@@ -27,17 +27,12 @@ A dashboard is being developed to further identify key trends and insights as we
 
 <h2>Solution ⚡️ </h2>
 
-To
+🚧 In Progress 🚧
 
 <h2>Process and Tools 🔨 </h2>
 
-1. A [Python script](https://github.com/lewisdecarolis19/GithubUtilizationMetrics/blob/main/Get_GitHub_Data.py), developed in <b>Jupyter Notebooks</b>, interacts with the [GitHub REST API](https://docs.github.com/en/rest?apiVersion=2022-11-28) to gather repository data in JSON format.  The script handles the default pagination of the API, and nested for loops are used to iterate through 2 repositories and 4 endpoints.
-    - Data specifically pertains to commits, pull requests, pull request comments, and contributors.
-    - The data is structured into data frames using the <b>Pandas</b> library and then concatenated and appended into a list of finalized data frames.
-    - The <b>ExcelWriter</b> function is used to submit each data frame in the list to its own tab in an output spreadsheet.
-    - The spreadsheet is pathed locally to a synced Sharepoint folder.  When the script is ran, the file in Sharepoint is replaced with a file containing new data.
-    - The Python script is scheduled to run every morning through <b>JupyterLab</b>.
 
+🚧 In Progress 🚧
 
 <h2>Results and Recommendations 🚀</h2>
 
@@ -45,5 +40,4 @@ To
 
 <h2>Project Files 📄</h2>
 
--  [Python Script](https://github.com/lewisdecarolis19/GithubUtilizationMetrics/blob/main/Get_GitHub_Data.py)
 
