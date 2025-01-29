@@ -11,9 +11,9 @@ The following project is an example of the type of reporting an Advancement Serv
 <h2>Objective 🎯</h2>
 
 
-This project aims to report on the non-profit's current campaign production and revenue. The task involves creating data [visualizations]("https://github.com/lewisdecarolis19/AdvancementServicesVisualizations/tree/main/Visualizations") for reports shared with both internal and external stakeholders. These visuals should clearly show differences between actual revenue and production versus target numbers, breaking down data by financial category or year. Ultimately, these charts will illustrate fundraising performance and trends, highlighting areas needing improvement to achieve goals. 
+This project aims to report on the non-profit's current campaign production and revenue. The task involves creating data [visualizations](https://github.com/lewisdecarolis19/AdvancementServicesVisualizations/tree/main/Visualizations) for reports shared with both internal and external stakeholders. These visuals should clearly show differences between actual revenue and production versus target numbers, breaking down data by financial category or year. Ultimately, these charts will illustrate fundraising performance and trends, highlighting areas needing improvement to achieve goals. 
 <br><br>
-A dashboard is being developed to further identify key trends and insights as well as gauge performance in greater detail.  Currently, the included [visualizations]("https://github.com/lewisdecarolis19/AdvancementServicesVisualizations/tree/main/Visualizations") are meant to act as easily interpreted supplements to written reports, and they are not meant to be drilled down into or sliced further by the user.
+A dashboard is being developed to further identify key trends and insights as well as gauge performance in greater detail.  Currently, the included [visualizations](https://github.com/lewisdecarolis19/AdvancementServicesVisualizations/tree/main/Visualizations) are meant to act as easily interpreted supplements to written reports, and they are not meant to be drilled down into or sliced further by the user.
 
 
 <h2>Business Questions 🔎</h2> 
